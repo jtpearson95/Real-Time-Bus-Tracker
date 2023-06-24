@@ -1,5 +1,8 @@
 # Real-Time-Bus-Tracker
 
+<img width="1394" alt="Screen Shot 2023-06-22 at 5 54 52 PM" src="https://github.com/jtpearson95/Real-Time-Bus-Tracker/assets/130475233/2267b010-b0bb-47fa-99d9-796e462cf960">
+
+
 This project pulls live data from a public API to track the locations of MBTA busses in the Cambridge area. The busses are represented by markers pinpointing the coordinates provided; as structured, the map updates every 10 seconds. In order to run, you need all the files provided, and you need to use a local server. You will also need to have your own API key for google maps. 
 
 MIT License
